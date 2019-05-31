@@ -1,0 +1,4 @@
+! old.reddit.com
+old.reddit.com##.seo-comments-recommendations
+old.reddit.com###bottom-comments > .seo-comments
+old.reddit.com##.spacer.seo-comments
