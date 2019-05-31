@@ -1,3 +1,10 @@
+! Version: 2019053101
+! Title: Cleaner-Web Nuisances
+! Description: Removes GUI nuisances
+! Expires: 8 days
+! Homepage: https://github.com/rovyko/cleaner-web
+! Licence: https://github.com/rovyko/cleaner-web/blob/master/LICENSE
+
 ! old.reddit.com
 old.reddit.com##.seo-comments-recommendations
 old.reddit.com###bottom-comments > .seo-comments
