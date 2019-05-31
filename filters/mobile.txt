@@ -1,0 +1,10 @@
+! Version: 2019053101
+! Title: Cleaner-Web Mobile
+! Description: Removes Mobile GUI nuisances
+! Expires: 8 days
+! Homepage: https://github.com/rovyko/cleaner-web
+! Licence: https://github.com/rovyko/cleaner-web/blob/master/LICENSE
+
+! reddit.com
+www.reddit.com##.mSmall.XPromoAdFeed
+www.reddit.com##.XPromoPill__container
